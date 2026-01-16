@@ -1,5 +1,10 @@
 # Increasing-the-reliability-of-machine-learning-applications-using-ensemble-methods---Bachelorthesis
 **Note:** The full text of this thesis is written in **German**. This repository provides an English summary and documentation to facilitate international research applications.
+- **Degree:** Bachelor of Science (B.Sc.) Biomedical engineering
+- **Institution:** TU Darmstadt | Control Methods and Intelligent Systems (RIS)
+- **Grade of Thesis:** **1.3 (Excellent / "Sehr gut")**
+- **Field:** Machine Learning, Biomedical Engineering, Robustness
+- **Datasets used:** MedMNISTv2, Fashion-MNIST, MNIST
 
 ## Abstract
 As Machine Learning (ML) is increasingly deployed in safety-critical infrastructures—such as medical diagnostics, autonomous driving, and aviation—ensuring the reliability and robustness of these systems is paramount. In medical contexts, for instance, incorrect predictions can have life-threatening consequences, necessitating models that can withstand both natural noise and adversarial interference.
